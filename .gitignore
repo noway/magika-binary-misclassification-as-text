@@ -1,0 +1,3 @@
+venv
+fuzz*
+magika_output.txt
