@@ -24,3 +24,6 @@ Files should be classified as data
 ## Observed
 
 Files are classified as text and code
+
+## Methodology
+See [METHODOLOGY.md](METHODOLOGY.md)
