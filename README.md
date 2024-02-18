@@ -4,6 +4,7 @@
 
 ```bash
 git clone git@github.com:noway/magika-binary-misclassification-as-text.git
+cd magika-binary-misclassification-as-text/
 python3 -m venv venv
 . venv/bin/activate
 pip install -r requirements.txt
