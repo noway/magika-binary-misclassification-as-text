@@ -23,3 +23,6 @@ The misclassifications are created by fuzzing the `output.png` file and filterin
 ```bash
 python interpret_data.py
 ```
+
+## Pre-installed software
+- zzuf 0.15
